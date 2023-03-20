@@ -10,7 +10,7 @@ I'm a Software Engineer and Content Manager, who is currently enrolled as a Soft
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript and Golang.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer or Back-end Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Back-end Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing oluwapelumioyenuga@gmail.com.
 
 ---
