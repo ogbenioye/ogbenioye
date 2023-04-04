@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-oluwapelumi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwapelumi-oyenuga)](https://www.linkedin.com/in/oluwapelumi-oyenuga/) [![Twitter Badge](https://img.shields.io/badge/-@ogbenioye-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ogbenioye)](https://twitter.com/ogbenioye)
 
-I'm a Software Engineer and Content Manager, who is currently enrolled as a Software Engineering student at [AltSchool Africa](https://altschoolafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, Entertainment Tech and others. I create technical content about my projects (on [Medium](https://medium.com/@oluwapelumioyenuga)), build useful [projects](https://github.com/ogbenioye), create podcast content, feature on some podcasts,...
+I'm a Software Engineer and Content Manager, who is currently enrolled as a Software Engineering student at [AltSchool Africa](https://altschoolafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, Entertainment Tech and others. I create technical content about my projects (on [Medium](https://medium.com/@ogbenioye)), build useful [projects](https://github.com/ogbenioye), create podcast content, feature on some podcasts,...
 
 **Here's a quick summary about me**:
 
