@@ -8,7 +8,7 @@ I'm a Software Engineer with a degree in Mathematics and a Software Engineering 
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Golang.
+- 🌱 I’m currently building solutions with JavaScript and Golang.
 - 😊 I’m looking for help with open source projects, hackathons, and internships.
 - 💼 Job interests: Software Engineer, Back-end Engineer (Intern or Entry-level).
 - 📫 You can contact me by emailing oluwapelumioyenuga@gmail.com.
