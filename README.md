@@ -15,5 +15,4 @@ I'm a Software Engineer with a degree in Mathematics and a Software Engineering 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogbenioye&show_icons=true&include_all_commits=true&hide_border=true" alt="Oluwapelumi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogbenioye&langs_count=8&layout=compact&hide_border=true" alt="Oluwapelumi's GitHub stats" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogbenioye&langs_count=8&layout=compact&hide_border=true" alt="Oluwapelumi's GitHub stats" />
