@@ -5,7 +5,6 @@
 Software Engineer with a BSc in Mathematics and a Diploma in Software Engineering from [AltSchool Africa](https://altschoolafrica.com). I'm passionate about sharing knowledge, documentation, web engineering, Entertainment Tech and others. I create technical content about my projects and tech process (on [Medium](https://medium.com/@ogbenioye)), build useful [projects](https://github.com/ogbenioye), create podcast content, feature on some podcasts,...
 
 - 💼 Job interests: Software Engineer, Back-end Engineer.
-- 📫 You can contact me by emailing oluwapelumioyenuga@gmail.com.
 
 ---
 
